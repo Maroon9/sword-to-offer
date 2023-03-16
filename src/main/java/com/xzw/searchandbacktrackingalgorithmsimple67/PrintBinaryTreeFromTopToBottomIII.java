@@ -1,4 +1,4 @@
-package com.xzw.searchandbacktrackingalgorithmsimple;
+package com.xzw.searchandbacktrackingalgorithmsimple67;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

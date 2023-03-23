@@ -1,4 +1,4 @@
-package com.xzw.searchandbacktrackingalgorithmmedium14;
+package com.xzw.searchandbacktrackingalgorithmmedium1415;
 
 /**
  * @author maroon

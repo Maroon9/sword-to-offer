@@ -1,4 +1,4 @@
-package com.xzw.searchandbacktrackingalgorithmmedium141518;
+package com.xzw.lookupalgorithmmedium5.searchandbacktrackingalgorithmmedium141518;
 
 import java.util.LinkedList;
 import java.util.List;
